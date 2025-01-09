@@ -2660,13 +2660,13 @@ typing-extensions = ">=4.3.0"
 
 [[package]]
 name = "nautobot"
-version = "2.2.4"
+version = "2.2.5"
 description = "Source of truth and network automation platform."
 optional = false
 python-versions = "<3.12,>=3.8"
 files = [
-    {file = "nautobot-2.2.4-py3-none-any.whl", hash = "sha256:2d27a99557b55475b0cdf3a4d9e04ab4cfd0a048d4a1e4bd3f6b63056b93c723"},
-    {file = "nautobot-2.2.4.tar.gz", hash = "sha256:a96f970d871e62153804a74693b5fe2f5406f87b2f0d5fffadddaabd69e47b90"},
+    {file = "nautobot-2.2.5-py3-none-any.whl", hash = "sha256:8b4256cb5f76b13d56c754b8a04e2869bc78d6a6593b2e7aae8094073320cb49"},
+    {file = "nautobot-2.2.5.tar.gz", hash = "sha256:0b0ac6aae922092dad271feccfef3efe1e1482284b23d0acbdb0c61f78227b57"},
 ]
 
 [package.dependencies]
